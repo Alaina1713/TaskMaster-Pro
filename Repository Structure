@@ -1,0 +1,10 @@
+TaskMasterPro/
+ ├── backend/
+ │    ├── server.js         # Express backend server
+ │    └── tasks.json        # JSON file storing tasks
+ ├── frontend/
+ │    ├── index.html
+ │    ├── style.css
+ │    └── script.js
+ ├── package.json
+ └── README.md
